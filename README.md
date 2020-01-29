@@ -1,6 +1,6 @@
 #Projeto Brb  :boom:
 ---
-#Objetivos :pushpin:
+# Objetivos :pushpin:
 
  * [ ] Criar tela de login e cadastro  __(05/02 ou 06/02)__ :calling:
 
@@ -15,6 +15,7 @@
     * [ ] Busca __(filtros)__ :mag_right:
     * [ ] Categorias :page_with_curl:
 <br />
+
 * [ ] Solicitar o serviço .... __(brabo)__ :fire:
 <br />
 
